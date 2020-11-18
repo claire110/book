@@ -5,12 +5,12 @@ Dynamic Website Project ( Book Management website )
 ## Login details:
 
 #### Role: Admin
-UserName: admin
-Password: admin
+##### UserName: admin
+##### Password: admin
 
 #### Role: users
-User Name: test
-Password: test
+##### UserName: test
+##### Password: test
 
 ## Database ( in model folder ) :
 clairebookproject.sql
