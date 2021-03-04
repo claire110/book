@@ -31,10 +31,10 @@ if (isset($_SESSION['login']) == true) {
           require("addBook.php"); break;
 
           case "editbook":
-          require("editbook.php"); break;
+          require("editBook.php"); break;
 
           case "delbook":
-          require("delbook.php"); break;
+          require("delBook.php"); break;
 
           case "addusers":
           require("registration.php"); break;
